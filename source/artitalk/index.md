@@ -6,7 +6,7 @@ title: artitalk
 <div id="artitalk_main"></div>
 <script>
   new Artitalk({
-    appId: 'xxxx',
-    appKey: 'xxx'
+    appId: 'WDKsJzOVwvMM3q925nIAtZLi-MdYXbMMI',
+    appKey: 'LBLQR6dhzJBrAezkda5rSFMk'
   })
 </script>
